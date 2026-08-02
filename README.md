@@ -14,9 +14,11 @@ Fully responsive — desktop layout with a sticky sidebar, and a mobile layout w
 
 ## Project structure
 
+```
 chirp-mern/
-├── backend/ ← Express API + serves frontend/dist in production
-└── frontend/ ← React (Vite) app
+├── backend/     ← Express API + serves frontend/dist in production
+└── frontend/    ← React (Vite) app
+```
 
 ## Local development
 
